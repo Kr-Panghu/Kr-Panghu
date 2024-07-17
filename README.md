@@ -5,6 +5,7 @@
 - 📫 How to reach me: kr2256671169@sjtu.edu.cn or kangruicen@gmail.com
 - 😄 Pronouns: he/him/his
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Panghu&show_icons=true&theme=radical)
 
 <p align="center"> 
   Visitor count<br>
