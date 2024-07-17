@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Kr-Panghu/Kr-Panghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently a senior Computer Science student at Shanghai Jiao Tong University, Shanghai, China.
+- 🔭 I’m currently working on Computer Vision problems related to generation model in [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/)'s lab at [UC Merced](https://www.ucmerced.edu/).
+- 📫 How to reach me: kr2256671169@sjtu.edu.cn or kangruicen@gmail.com
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Kr-Panghu/count.svg" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kr-Panghu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
