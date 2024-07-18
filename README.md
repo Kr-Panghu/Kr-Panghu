@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/him/his
 - 🖥️ You can know more about me at [my personal homepage](Kr-Panghu.github.io).
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Keep going:</h3>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kr-Panghu&theme=onedark&title=MultiLanguage,Stars,Followers,Repositories,Commits,Experience)
