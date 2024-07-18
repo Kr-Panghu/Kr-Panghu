@@ -8,6 +8,15 @@
 - 🖥️ You can know more about me at [my personal homepage](Kr-Panghu.github.io).
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 17 June 2024 - To: 17 July 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Keep going:</h3>
