@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 October 2024 - To: 07 November 2024
+From: 10 October 2024 - To: 09 November 2024
 
-Total Time: 96 hrs 33 mins
+Total Time: 104 hrs 38 mins
 
-Python        90 hrs 37 mins  ███████████████████████▒░   93.63 %
-HTML          2 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Markdown      46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Text          43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JavaScript    22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python        98 hrs 7 mins   ███████████████████████▒░   93.55 %
+HTML          2 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Text          54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown      47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript    22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
